@@ -98,7 +98,7 @@ Total Test Cases: 5
 ## Bug Report Examples
 
 The image below provides visual examples of defects documented during testing.
-Screenshots/QA Bug Report Showcase Infographic.png
+Screenshots/QA_Bug_Report_Showcase_Infographic.png
 
 ---
 
