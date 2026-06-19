@@ -108,7 +108,7 @@ support regression testing.
 
 See:
 
-`portfolio/Josh_Williams_SQL_QA_Portfolio.pdf`
+`portfolio/Josh Williams SQL-QA Portfolio.pdf`
 
 ------------------------------------------------------------------------
 
